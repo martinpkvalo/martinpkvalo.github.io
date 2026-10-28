@@ -4,4 +4,4 @@ Master of Science in Business, major in Economics, BI.
 
 ## What I built in this course
 
-- Session 1: this page.
+- Session 1: this page. Source: [martinpkvalo.github.io](https://github.com/martinpkvalo/martinpkvalo.github.io)
