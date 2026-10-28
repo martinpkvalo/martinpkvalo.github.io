@@ -1,6 +1,6 @@
 # Martin Prussak Kvalø
 
-Master of Science in Business, major in Economics, BI.
+Master of Science in Business, Major in Economics, BI.
 
 ## What I built in this course
 
